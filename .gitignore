@@ -2,6 +2,7 @@ images/
 annotations/
 results/
 external/
+labels/
 .DS_Store
 
 MatlabAPI/analyze*/
@@ -16,3 +17,5 @@ PythonAPI/pycocotools/mask.pyc
 
 *.so
 *.pyc
+*.zip
+*.tgz
